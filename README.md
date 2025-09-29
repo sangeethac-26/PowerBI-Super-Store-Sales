@@ -19,6 +19,6 @@ Outcome
 Built an interactive dashboard that helps track sales and profit trends, identify key customer segments, and optimize inventory planning.
 
 Dashboard Preview
-![Dashboard Screenshot](visuals/superstore-dashboard.png)
+![Dashboard Screenshot][(visuals/superstore-dashboard.png)](https://github.com/sangeethac-26/PowerBI-Super-Store-Sales/commit/9c5822379ba43bc9b16029ebc193c09852ef8a7b)
 
 
